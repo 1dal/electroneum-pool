@@ -59,14 +59,16 @@ Comes with lightweight example front-end script which uses the pool's AJAX API.
 
 
 #### Pools Using This Software
-
-* https://asiapool.electroneum.com
-* https://eupool.electroneum.com
-* https://uspool.electroneum.com
+* http://etnpool.cc  <-- Asian -- 0.1% fee
+* https://easyhash.io/pools/etn
+* http://electroneum.mining-pool.info <- cloud based, French pool server
+* http://etn.proxpool.com <- cloud based, high efficiency, EU Pool Server, 0% fee
 * http://ucrypto.com
 * http://pool.electroneumcharts.com
 * https://easyhash.io/pools/etn
+* http://etn.exohash.com
 * https://etn.uax.io/
+* http://etnpool.cylim.com.my <- Asia (South East Asia), Cloud based, High efficiency
 * http://etn.cryptobits.ltd/
 * https://etn.dark-mine.su/
 * http://etnpool.club/
@@ -76,6 +78,12 @@ Comes with lightweight example front-end script which uses the pool's AJAX API.
 * https://dedpool.io/etn <- US Pool
 * https://dedpool.io/etn/eu <- EU Pool
 * https://etn.xeminer.net <-- Asian
+* http://electroneum.dedpewl.com
+* http://etn.pool.nocroom.com < - cloud based, US Pool Server
+* http://etn.bl0ck.party <- Atlanta, GA, USA -- 0.5% fee
+* https://www.etn.rustylock.club - cloud based, high efficiency, EU Pool Server
+* https://supportetn.eu - nodejs-pool, EU Pool Server, 0.2 % fee
+* http://www.etnhodl.com  <~ cloud based, US Server .1% fee
 
 Usage
 ===
